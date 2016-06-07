@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:36.975271
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:13
 #+TITLE: 御錄經海一滴
 #+PROPERTY: CBETA_ID L164n1669
 #+PROPERTY: ID KR6s0071
 #+PROPERTY: SOURCE Qianlong Edition of the Canon Vol. 164, No. 1669
 #+PROPERTY: VOL 164
 #+PROPERTY: BASEEDITION L
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0071_L_016-0653b> 
 #+PROPERTY: JUAN 16
+御錄經海一滴卷之十六　　　　　機六¶
 
- 御錄經海一滴卷之十六　　　　　機六¶
-
-涅槃經之四¶
+* 大般涅槃經之四¶
 
 迦葉菩薩白佛言世尊若諸菩薩修慈悲喜¶
 得一子地者修捨心時復得何地佛言善哉¶
@@ -388,7 +387,7 @@
 王師子王像蓮花形像優曇華像或見大山¶
 或見大海水或見日月或見白象及白馬像¶
 或見父母得華得果爾時當知即是如來受¶
-其所施寤已喜樂尋得種種所須之物心不¶
+其所施寤巳喜樂尋得種種所須之物心不¶
 念惡樂修善法善男子是大涅槃悉能成就¶
 如是無量阿僧祇等不可思議無邊功德。¶
 
@@ -553,7 +552,7 @@
 ¶
 御錄經海一滴卷之十六¶
 
-音釋¶
+* 音釋¶
 
 瘥
 (楚懈切差去聲病瘳也)。
